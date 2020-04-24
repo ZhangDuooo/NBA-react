@@ -6,9 +6,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.1.4",
+    "d3": "latest",
+    "d3-hexbin": "latest",
+    "d3-shotchart": "0.0.2",
+    "lodash": "latest",
+    "nba": "^4.8.0",
+    "prop-types": "latest",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "@ant-design/icons": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
